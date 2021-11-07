@@ -1,2 +1,2 @@
 # CornHub 
-# Just for fun hehehehe
+Just for fun hehehehe
